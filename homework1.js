@@ -1,6 +1,6 @@
 //Nombre y Apellido:
-//Curso: 
-//Grupo:
+//Curso: 6to
+//Grupo:604
 //Taller de Programacion III
 //Departamento de Informatica - EESTn°1 - Raul Scalabrini Ortiz
 
@@ -9,7 +9,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null ;
+const nuevaString = "holaa" ;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
@@ -18,7 +18,7 @@ const nuevoNum = null;
 const nuevoBool = null;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+const nuevaResta = 10 - 5 === 5;
 
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = null * 4 === 40 ;
