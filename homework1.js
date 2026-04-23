@@ -1,4 +1,4 @@
-//Nombre y Apellido:
+//Nombre y Apellido: brisa scomazzon
 //Curso: 6to
 //Grupo:604
 //Taller de Programacion III
@@ -24,7 +24,7 @@ const nuevaResta = 10 - 5 === 5;
 const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === 4,2;
+const nuevoModulo = 21 % 5 === 4.2;
 
 
 // En los próximos 22 problemas, deberás completar la función.
