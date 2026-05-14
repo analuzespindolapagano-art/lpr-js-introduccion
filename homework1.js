@@ -152,6 +152,7 @@ function esImpar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
 
+return num % 2 !== 0;
   
 
 }
