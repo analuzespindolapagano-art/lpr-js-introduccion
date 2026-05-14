@@ -178,14 +178,14 @@ function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
 
-  
+  Math.pow (num,exponent);
 
 }
 
 function redondearNumero(num) {
   // Redondea "num" y devuélvelo
   // Tu código:
-  
+  Math.round(num);
   
 
 }
