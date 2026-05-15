@@ -179,7 +179,7 @@ function elevar(num, exponent) {
   // Tu código:
 
   Math.pow (num,exponent);
-
+return num ** exponent;
 }
 
 function redondearNumero(num) {
@@ -212,6 +212,7 @@ function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Juan " -> "Soy Juan"
   // Tu código:
+return   nombre + "" + apellido;
 
   
 
