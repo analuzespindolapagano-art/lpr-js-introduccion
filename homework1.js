@@ -186,7 +186,7 @@ function redondearNumero(num) {
   // Redondea "num" y devuélvelo
   // Tu código:
   Math.round(num);
-  
+  return Math.round (num);
 
 }
 
